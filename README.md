@@ -1,6 +1,6 @@
 # SKILL LENS AI - Resume Screener
 
-**Tagline:** *“Filtering the gold from the resumes, smarter and faster.”*
+**Tagline:** *“Skip the noise, meet the talent.”*
 
 ## Project Overview
 

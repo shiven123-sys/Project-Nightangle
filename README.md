@@ -1,4 +1,4 @@
-# Nightangle – AI Resume Screener
+# SKILL LENS AI - Resume Screener
 
 **Tagline:** *“Filtering the gold from the resumes, smarter and faster.”*
 
